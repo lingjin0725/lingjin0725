@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ling Jin!
+🌱 Aspiring Data Analyst | 📊 Python, SQL, R | 📍 Seattle  
 
-<!--
-**lingjin0725/lingjin0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about uncovering insights through data and building meaningful visualizations.  
+Currently working on projects in Python, R, and SQL – check out my work below!
 
-Here are some ideas to get you started:
+🔗 [LinkedIn](https://linkedin.com/in/lingjin0913)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- Python | SQL | R | Java
+- Data Visualization | Analysis | Reporting
+- Libraries: Pandas, Matplotlib, ggplot2
+
+---
+
+### 📁 Featured Projects
+- **College Degree Analysis** → [Python](https://github.com/lingjin0725/Python)
+- **Student Performance Evaluation** → [R](https://github.com/lingjin0725/R)
+- **Data Portfolio** → [Portfolio Repo](https://github.com/lingjin0725/ling-s_portfolio)
+
+Thanks for visiting! 💬 Feel free to connect with me!
